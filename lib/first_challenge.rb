@@ -4,7 +4,3 @@ epic_tragedy = {
   :capulet => {}
 }
 end
-
-
-
-
